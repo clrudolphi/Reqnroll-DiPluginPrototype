@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReqnrollPlugins.DependencyI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReqnrollPlugins.ReqnrollDi", "ReqnrollPlugins.ReqnrollDi\ReqnrollPlugins.ReqnrollDi.csproj", "{07D5FC2B-5076-4C53-BF42-8C4B2F4CDF60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReqnrollPlugins.MSDIandXunit", "ReqnrollPlugins.MSDIandXunit\ReqnrollPlugins.MSDIandXunit.csproj", "{6AD005C3-8309-4A9C-AC15-22577D8620A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{07D5FC2B-5076-4C53-BF42-8C4B2F4CDF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07D5FC2B-5076-4C53-BF42-8C4B2F4CDF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07D5FC2B-5076-4C53-BF42-8C4B2F4CDF60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD005C3-8309-4A9C-AC15-22577D8620A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD005C3-8309-4A9C-AC15-22577D8620A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD005C3-8309-4A9C-AC15-22577D8620A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD005C3-8309-4A9C-AC15-22577D8620A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
